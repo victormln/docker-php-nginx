@@ -30,3 +30,5 @@ $ make start
 ```
 
 Test website: `https://web-server.test` (you will see all `phpinfo()`)
+
+Now you can edit the file in `public/index.php` and start coding!
