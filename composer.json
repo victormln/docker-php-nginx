@@ -1,0 +1,15 @@
+{
+  "name": "victormln/docker-php-nginx",
+  "type": "template",
+  "description": "A project template to have PHP 8.1 and nginx",
+  "keywords": ["template"],
+  "homepage": "https://victormln.gitlab.io/p/preparando-entorno-php-nginx-con-docker-docker-compose/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Víctor Molina",
+      "email": "victor.molinaf@gmail.com",
+      "homepage": "https://victormln.gitlab.io"
+    }
+  ]
+}
