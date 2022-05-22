@@ -1,6 +1,6 @@
 # Introduction
 
-Template repository to have PHP 8.1 + nginx available through a local URL: https://web-server.test
+Template repository to have PHP 8.1 + nginx available through a local URL: http://web-server.test
 
 ## Installation
 
