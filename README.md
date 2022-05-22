@@ -7,7 +7,7 @@ Template repository to have PHP 8.1 + nginx available through a local URL: https
 1. From composer
 
 ```shell
-$ composer require victormln/docker-php-nginx your-project
+$ composer create-project victormln/docker-php-nginx your-project
 ```
 
 OR with git:
