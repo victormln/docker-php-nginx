@@ -1,3 +1,5 @@
+https://img.shields.io/packagist/php-v/victormln/docker-php-nginx
+
 # Introduction
 
 Template repository to have PHP 8.1 + nginx available through a local URL: http://web-server.test
