@@ -1,4 +1,4 @@
-https://img.shields.io/packagist/php-v/victormln/docker-php-nginx
+![PHP Version](https://img.shields.io/packagist/php-v/victormln/docker-php-nginx)
 
 # Introduction
 

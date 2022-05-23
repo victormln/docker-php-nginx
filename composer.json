@@ -6,7 +6,7 @@
   "homepage": "https://victormln.gitlab.io/p/preparando-entorno-php-nginx-con-docker-docker-compose/",
   "license": "MIT",
   "require": {
-    "php": "8.1.*"
+    "php": "8.1"
   },
   "authors": [
     {
