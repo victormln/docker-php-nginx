@@ -2,11 +2,11 @@
 
 # Introduction
 
-Template repository to have PHP 8.1 + nginx available through a local URL: http://web-server.test
+Template repository to have PHP + nginx available through a local URL: http://web-server.test
 
 ## What is in this template
 
-- PHP-fpm 8.1
+- PHP-fpm
 - php.ini prepared to be edited by your own
 - Composer
 - Makefile
