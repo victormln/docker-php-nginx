@@ -19,22 +19,18 @@ Template repository to have PHP + nginx available through a local URL: http://we
 
 ```shell
 $ composer create-project victormln/docker-php-nginx your-project
+# It will ask you for your sudo password in order to add to your /etc/hosts the domain
 ```
 
 OR with git:
 
 ```shell
 $ git clone https://github.com/victormln/docker-php-nginx.git your-project
-```
-
-2. Install repository
-
-```shell
 $ cd your-project
 $ make install # It will ask you for your sudo password in order to add to your /etc/hosts the domain
 ```
 
-3. Start web server:
+2. Start web server:
 
 ```shell
 $ make start
